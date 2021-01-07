@@ -37,7 +37,7 @@ files in the github repository. Please note to replace ####### with the numeric 
    In installed_blueprints.js you need to add objects for every screen that you want to show in the sidemenu/splash screen.
    They have a specific format:
    
-   ``` { name: 'PrivacyPolicyScreen#######', human_name: 'Privacy Policy', access_route: 'PrivacyPolicyScreen#######'} ```
+   ``` { name: 'PrivacyPolicyScreen23190733', human_name: 'Privacy Policy', access_route: 'PrivacyPolicyScreen23190733'} ```
    
    **name:**  doesn't matter much, its used as a unique key for the side menu and splash screens array of 
    buttons, it must be unique, that's the only requirement

@@ -79,7 +79,7 @@ export default class App extends React.Component {
                         resizeMode={"contain"}
                         style={styles.header}>
                         <TouchableOpacity
-                            onPress={() => { this.props.navigation.navigate('HomeScreen177788') }}>
+                            onPress={() => { this.props.navigation.navigate('Settings186099') }}>
                             <Icon
                                 style={{
                                     width: 18,
@@ -121,7 +121,7 @@ export default class App extends React.Component {
                         }}>
 
                         <TouchableOpacity
-                            onPress={() => Linking.openURL('https://www.crowdbotics.com/privacy-policy')}
+                            onPress={() => Linking.openURL('https://www.google.com')}
                             style={{
                                 borderRadius: 23,
                                 alignItems: "center",
