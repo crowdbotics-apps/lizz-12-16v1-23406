@@ -2,6 +2,8 @@
 
 The Privacy Policy Screen is a ReactNative based screen that leverages the paralax with a custom header.
 
+PrivacyPolicyScreen23190733 23190733
+
 ## Installation
 
 After you have added the screen module into your project, you will need to configure a few items by modifying the project 
@@ -21,11 +23,11 @@ files in the github repository. Please note to replace ####### with the numeric 
   **/src/mainNavigator.js:** 
    **ADD** immediately below in the section labeled  //@BlueprintImportInsertion:  
    
-   ```import PrivacyPolicyScreen#######Navigator from '../features/PrivacyPolicyScreen#######/navigator';```
+   ```import PrivacyPolicyScreen23190733Navigator from '../features/PrivacyPolicyScreen#######/navigator';```
    
    **ADD**  immediately below in the section inside AppNavigator definition labeled  //@BlueprintNavigationInsertion section:
    
-   ```TPrivacyPolicyScreen#######: { screen: PrivacyPolicyScreen#######Navigator },```
+   ```TPrivacyPolicyScreen23190733 { screen: PrivacyPolicyScreen#######Navigator },```
   
 ### STEP 3: Add Terms screen into the sidemenu navigation.  
   **/src/config/installed_blueprints.js**
